@@ -1,5 +1,5 @@
 
-public class LAPIS_ACTIVITY_I{
+public class ALFEREZ_ACTIVITY_I{
     public static void main(String[]args){
         int x = 15;
         int y = 10;
